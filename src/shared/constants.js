@@ -13,6 +13,14 @@ export const COLORS = {
     800: "#2A2A2A",
     900: "#111111",
   },
+  accent: {
+    pink: "#f81ce5",
+    blue: {
+      100: "#019AE9",
+      200: "#007cf0",
+    },
+    green: "#00dfd8",
+  },
 };
 
 export const WEIGHTS = {
