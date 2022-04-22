@@ -2,6 +2,6 @@
 
 Nothing too special.. Just strengthening my css ability
 
-# Tools
+### Tools
 - React
 - Styled Components
