@@ -68,6 +68,7 @@ export default createGlobalStyle`
     --accent-green: ${COLORS.accent.green};
     --accent-blue-100: ${COLORS.accent.blue[100]};
     --accent-blue-200: ${COLORS.accent.blue[200]};
+    --accent-blue-300: ${COLORS.accent.blue[300]};
     --color-gray-50: ${COLORS.gray[50]};
     --color-gray-100: ${COLORS.gray[100]};
     --color-gray-200: ${COLORS.gray[200]};

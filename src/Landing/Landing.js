@@ -4,6 +4,7 @@ import styled from "styled-components/macro";
 import MaxWidthWrapper from "../shared/MaxWidthWrapper";
 import IntroSection from "./IntroSection";
 import DevelopSection from "./DevelopSection";
+import FrameworkSection from "./FrameworkSection";
 
 const Landing = () => {
   return (
@@ -14,6 +15,7 @@ const Landing = () => {
           <small>Explore the vercel way</small>
         </MiniHeading>
         <DevelopSection />
+        <FrameworkSection />
       </MaxWidthWrapper>
     </Wrapper>
   );
